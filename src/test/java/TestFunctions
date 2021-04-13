@@ -1,0 +1,8 @@
+
+main() {
+
+   Integer g = 4
+   print(g)
+
+}
+

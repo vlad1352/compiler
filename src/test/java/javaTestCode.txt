@@ -1,0 +1,29 @@
+
+
+main() {
+    Integer a = 5
+    Integer b = 10
+    Integer c = 0
+
+    if(a == b) {
+        c = a+b
+        print(c)
+    } else {
+        Integer i = 4
+        print(i)
+    }
+
+    for(Integer q = 0; q < 200; q++) {
+        a++
+        print(a)
+        if(a == 100){
+            break
+        }
+
+
+    }
+
+
+
+}
+
